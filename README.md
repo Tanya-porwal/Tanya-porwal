@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt= "coding "width="450" src="https://static.vecteezy.com/system/resources/thumbnails/036/103/512/original/3d-render-coding-animation-coding-screen-3d-rendering-programming-with-syntax-code-transparent-background-with-alpha-channel-video.jpg" >
-<img align="left" alt= "programmer"width="500"
+<img align="right" alt= "programmer"width="500"
 src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" >
+<img align="right" alt="hacking" width="480" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVqYmhld2M1YzlpMmd0b201OTBjZ2Z3NXdid2ZoOTZ3bTl6eHAyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/200.webp">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanya-porwal&label=Profile%20views&color=0e75b6&style=flat" alt="tanya-porwal" /> </p>
 
  - 🌱 I’m currently learning **Web Development**
