@@ -12,7 +12,7 @@ src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349
 
 - 📫 How to reach me **tanyaporwal9027@gmail.com**
 
-- ⚡ Fun fact **I think I m funny and extrovert**
+- ⚡ Fun fact **I think I m funny**
 
 
 
