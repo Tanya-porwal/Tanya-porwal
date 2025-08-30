@@ -28,6 +28,6 @@
 
 
 
-<p>&nbsp;<img align="left" width="470px" height = "400px"align ="left"src="https://github-readme-stats.vercel.app/api?username=tanya-porwal&show_icons=true&locale=en" alt="tanya-porwal" /></p>
+<p>&nbsp;<img align="left" width="400px" height = "400px"align ="left"src="https://github-readme-stats.vercel.app/api?username=tanya-porwal&show_icons=true&locale=en" alt="tanya-porwal" /></p>
 
-<p><img align="right" width="460px" height ="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=tanya-porwal&" alt="tanya-porwal" /></p>
+<p><img align="right" width="400px" height ="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=tanya-porwal&" alt="tanya-porwal" /></p>
