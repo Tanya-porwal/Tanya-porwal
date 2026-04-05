@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tanyaporwa5432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tanyaporwa5432" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/tanya ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanya ." height="40" width="50" /></a>
+<a href="https://leetcode.com/u/Tanya_porwal1671/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanya ." height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/tanya porwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanya porwal" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/tanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanya" height="40" width="50" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tanyapordrtm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanyapordrtm" height="40" width="50" /></a>
